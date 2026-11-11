@@ -1,0 +1,4 @@
+{"merchant": "m1", "floor": "F1", "category": "dining", "effective_at": "2026-10-01T00:00:00+08:00", "known_at": "2026-09-30T00:00:00+08:00"}
+{"merchant": "m2", "floor": "F2", "category": "dining", "effective_at": "2026-10-01T00:00:00+08:00", "known_at": "2026-09-30T00:00:00+08:00"}
+{"merchant": "m3", "floor": "F1", "category": "entertainment", "effective_at": "2026-10-01T00:00:00+08:00", "known_at": "2026-09-30T00:00:00+08:00"}
+{"merchant": "m1", "floor": "F2", "category": "dining", "effective_at": "2026-10-22T00:00:00+08:00", "known_at": "2026-10-21T00:00:00+08:00"}

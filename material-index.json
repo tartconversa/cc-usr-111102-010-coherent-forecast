@@ -1,0 +1,22 @@
+[
+  {
+    "path": "fixtures/analysis.json",
+    "sha256": "8c80aacae145fb3bf622b5f306ad574b72b79ea7a71e74e13dc9c3acd1f8eb77",
+    "size_bytes": 373
+  },
+  {
+    "path": "fixtures/calendar.json",
+    "sha256": "1599eb9677666ad4cffd14ca9ead8bade6022bd0ee1aa7cc579594a47716d0d4",
+    "size_bytes": 222
+  },
+  {
+    "path": "fixtures/counts.csv",
+    "sha256": "d29c79c83e72293291d1fd05a21a6689ff5efb12b58af7986a1945000a47a126",
+    "size_bytes": 14842
+  },
+  {
+    "path": "fixtures/hierarchy.jsonl",
+    "sha256": "6c0847063c7920cb3bc77176cc51ee27cbb61567dd11441b60b3051b35156873",
+    "size_bytes": 575
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "initial_training_days": 14,
+  "rolling_horizon_buckets": 8,
+  "seed": 10210,
+  "scenario_repeats": 200,
+  "hand_reconciliation": {
+    "base": [
+      8,
+      6,
+      10
+    ],
+    "rows": [
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "weights": [
+      1,
+      1,
+      1
+    ]
+  }
+}
